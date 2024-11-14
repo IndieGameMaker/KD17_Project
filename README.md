@@ -2,7 +2,7 @@
 
 ## 미니 프로젝트
 
-- 기획 발표: 2024.11.15
+- 기획 발표: 2024.11.15 ([기획문서 업로드](https://drive.google.com/drive/folders/1r4X86MJrmzo3YP9tDqsx6CPOKeBEw2Vg?usp=share_link))
 - 팀 인원 : 2인 1팀
 - 개발 기간: 2024.11.18 ~ 2024.11.28
 

@@ -4,7 +4,7 @@
 
 |  프로젝트명   |   팀명   |  팀장  |          팀원          |   픒랫폼   |                                                     트렐로                                                     |
 | :-----------: | :------: | :----: | :--------------------: | :--------: | :------------------------------------------------------------------------------------------------------------: |
-|   UnRailed    |   미정   | 차명근 |     차명근, 김탁영     | VR, Photon | [트렐로](https://trello.com/b/5fGuIDl0/mini-projectunrailed-vr?search_id=bcff72fe-7af4-4895-b43c-0a867e8ba7ae) |
+|   UnRailed    |   미정   | 차명근 | 차명근, 김탁영, 양석원 | VR, Photon | [트렐로](https://trello.com/b/5fGuIDl0/mini-projectunrailed-vr?search_id=bcff72fe-7af4-4895-b43c-0a867e8ba7ae) |
 | 디펜스 RPG 활 |   미정   | 심성보 |     심성보, 배효은     |     VR     |                            [트렐로](https://trello.com/b/7kuEACU7/my-trello-board)                             |
 |    무인도     | 표류자들 | 윤세원 | 윤세원, 송정현, 최성룡 | VR, Photon |                            [트랠로](https://trello.com/b/7kuEACU7/my-trello-board)                             |
 

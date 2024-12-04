@@ -1,5 +1,8 @@
 # KD17_Project
 
+
+## Player 모델 ([다운로드](https://github.com/IndieGameMaker/AnimationRigging_Tutorial/blob/master/assets/Characters.unitypackage))
+
 ## 미니 프로젝트 팀 구성
 
 |  프로젝트명   |   팀명   |  팀장  |          팀원          |   픒랫폼   |                                                     트렐로                                                     |

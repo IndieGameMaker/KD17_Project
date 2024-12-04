@@ -1,7 +1,7 @@
 # KD17_Project
 
 
-## Player 모델 ([다운로드](https://github.com/IndieGameMaker/AnimationRigging_Tutorial/blob/master/assets/Characters.unitypackage))
+## Player 모델 ([다운로드](https://drive.google.com/file/d/1arWzwGlsUr6r48kzs_sROy4vYUKJn972/view?usp=share_link))
 
 ## 미니 프로젝트 팀 구성
 

@@ -25,7 +25,6 @@
 - 변경사항 반영
 - [최종 기획서 업로드](https://drive.google.com/drive/folders/17SMgadIfGi9saQiG_Uh-RY2pVW9wLfKu?usp=share_link)
 
-
 ## 기획 팀 빌딩
 
 - 3인 1팀 기본 (예외적으로 2인, 4인 팀도 가능)
@@ -41,6 +40,7 @@
 |   2   |      |            |        |      |      |        |
 |   3   |      |            |        |      |      |        |
 
+---
 
 ### 프로젝트 일정
 
@@ -108,6 +108,7 @@
 - 함수(메소드) 명명 규칙 (Pascal Case)
 - 변수 명명 규칙 (Camel Case)
 - 로컬 백업 방식 및 주기 결정
+- [유니티 C# 표준안](https://github.com/thomasjacobsen-unity/Unity-Code-Style-Guide/tree/master)
 
 ### 프로젝트 설계문서
 

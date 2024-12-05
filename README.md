@@ -108,7 +108,7 @@
 - 함수(메소드) 명명 규칙 (Pascal Case)
 - 변수 명명 규칙 (Camel Case)
 - 로컬 백업 방식 및 주기 결정
-- [유니티 C# 표준안](https://github.com/thomasjacobsen-unity/Unity-Code-Style-Guide/tree/master)
+- [유니티 C# 표준안](https://github.com/IndieGameMaker/CharpCodingStandard)
 
 ### 프로젝트 설계문서
 

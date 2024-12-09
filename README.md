@@ -40,6 +40,8 @@
 |   2   |      |            |        |      |      |        |
 |   3   |      |            |        |      |      |        |
 
+### 설계 일정
+
 ![](assets/schedule_design.png)
 
 ---

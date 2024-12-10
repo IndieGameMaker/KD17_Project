@@ -34,11 +34,11 @@
 
 ## 최종 프로젝트 팀
 
-|  NO   | 팀명 | 프로젝트명 | 플랫폼 | 팀장 | 팀원 | 트렐로 |
-| :---: | ---- | ---------- | ------ | ---- | ---- | ------ |
-|   1   |      |            |        |      |      |        |
-|   2   |      |            |        |      |      |        |
-|   3   |      |            |        |      |      |        |
+|  NO   | 팀명 | 프로젝트명         | 플랫폼 | 팀장   | 팀원           | 협업                                                                                     |
+| :---: | ---- | ------------------ | ------ | ------ | -------------- | ---------------------------------------------------------------------------------------- |
+|   1   |      | Resonance of Light | VR     | 양석원 | 최성용         | [트렐로](https://trello.com/b/uNAwKnpm/resonance-of-lights)                              |
+|   2   |      | Be Honored         | VR     | 윤세원 | 김탁영, 송정현 | [Jira](https://vr17behonored.atlassian.net/jira/software/projects/KAN/boards/1/timeline) |
+|   3   |      | Ski Shooter        | VR     | 차명근 | 배효은         | [트렐로](https://trello.com/b/YBc3Z6RD/ski-shooter)                                      |
 
 ### 설계 일정
 

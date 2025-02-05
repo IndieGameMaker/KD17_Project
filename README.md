@@ -32,6 +32,12 @@
 - 선정된 기획에 대해 팀원간 아이디어 회의
 - 대략적인 구현 기능 목록 정리
 
+## 최종 프로젝트 발표 문서
+
+- 발표 문서 업로드 시 팀명으로 폴더 생성 후 업로드
+- [발표 문서 템플릿](https://docs.google.com/presentation/d/1HYUKU_M5ALghtoDSjGQGM6ADzBeRadT5/edit?usp=share_link&ouid=109306707304462513227&rtpof=true&sd=true)
+- [발표 문서 업로드](https://drive.google.com/drive/folders/17xhZvtkU11WnddP64eoKScqHmSWYqdLR?usp=share_link)
+  
 ## 최종 프로젝트 팀
 
 |  NO   | 팀명          | 프로젝트명         | 플랫폼 | 팀장   | 팀원           | 협업                                                                                     |
